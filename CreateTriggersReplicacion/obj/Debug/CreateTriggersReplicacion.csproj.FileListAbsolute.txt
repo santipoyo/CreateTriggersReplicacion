@@ -1,0 +1,12 @@
+D:\Milton\Documents\Workdir\Tests\CreateTriggersReplicacion\CreateTriggersReplicacion\bin\Debug\CreateTriggersReplicacion.exe.config
+D:\Milton\Documents\Workdir\Tests\CreateTriggersReplicacion\CreateTriggersReplicacion\bin\Debug\CreateTriggersReplicacion.exe
+D:\Milton\Documents\Workdir\Tests\CreateTriggersReplicacion\CreateTriggersReplicacion\bin\Debug\CreateTriggersReplicacion.pdb
+D:\Milton\Documents\Workdir\Tests\CreateTriggersReplicacion\CreateTriggersReplicacion\obj\Debug\CreateTriggersReplicacion.csprojResolveAssemblyReference.cache
+D:\Milton\Documents\Workdir\Tests\CreateTriggersReplicacion\CreateTriggersReplicacion\obj\Debug\CreateTriggersReplicacion.exe
+D:\Milton\Documents\Workdir\Tests\CreateTriggersReplicacion\CreateTriggersReplicacion\obj\Debug\CreateTriggersReplicacion.pdb
+D:\Milton\Documents\Workdir\GitHub\FoodEnterprise\CreateTriggersReplicacion\CreateTriggersReplicacion\bin\Debug\CreateTriggersReplicacion.exe.config
+D:\Milton\Documents\Workdir\GitHub\FoodEnterprise\CreateTriggersReplicacion\CreateTriggersReplicacion\bin\Debug\CreateTriggersReplicacion.exe
+D:\Milton\Documents\Workdir\GitHub\FoodEnterprise\CreateTriggersReplicacion\CreateTriggersReplicacion\bin\Debug\CreateTriggersReplicacion.pdb
+D:\Milton\Documents\Workdir\GitHub\FoodEnterprise\CreateTriggersReplicacion\CreateTriggersReplicacion\obj\Debug\CreateTriggersReplicacion.csprojResolveAssemblyReference.cache
+D:\Milton\Documents\Workdir\GitHub\FoodEnterprise\CreateTriggersReplicacion\CreateTriggersReplicacion\obj\Debug\CreateTriggersReplicacion.exe
+D:\Milton\Documents\Workdir\GitHub\FoodEnterprise\CreateTriggersReplicacion\CreateTriggersReplicacion\obj\Debug\CreateTriggersReplicacion.pdb
